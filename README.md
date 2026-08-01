@@ -35,9 +35,9 @@ The dashboard provides business insights by allowing users to filter data by **Y
   - Profit Margin
 
 -  Interactive Slicers
-  - Year
-  - Region
-  - Segment
+    - Year
+    - Region
+    - Segment
 
 -  Monthly Sales vs Profit Analysis
 
